@@ -1,4 +1,4 @@
-# 🌩️ Personal Cloud Storage
+#  Personal Cloud Storage
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
@@ -20,7 +20,7 @@ A lightweight, self-hosted file storage app with Flask. Secure multi-user upload
 ## 🚀 Quick Setup
 1. Install deps: `pip install -r requirements.txt`
 2. Run: `python app.py`
-3. Visit: 
+3. Visit: http://127.0.0.1:5000 → Sign up & upload!
 
 ## 🌐 Deploy Free
 - **Railway/Render**: Link GitHub repo → Auto-deploy in 1 min
