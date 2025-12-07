@@ -5,6 +5,10 @@
 
 A lightweight, self-hosted file storage app with Flask. Secure multi-user uploads, downloads, and management—your private Dropbox in <150 lines!
 
+# 📄 Full Report (PDF)
+Read the complete assignment here:
+
+
 ## ✨ Features
 - User sign-up/login with hashed passwords
 - Per-user private folders
