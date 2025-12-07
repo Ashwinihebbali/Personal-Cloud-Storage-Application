@@ -5,11 +5,6 @@
 
 A lightweight, self-hosted file storage app with Flask. Secure multi-user uploads, downloads, and management—your private Dropbox in <150 lines!
 
-# 📄 Full Report(PDF)
-Read the complete assignment here:
-https://github.com/Ashwinihebbali/Personal-Cloud-Storage-Application/blob/main/Personal%20Cloud%20Storage%20Application%20Report.pdf
-
-
 ## ✨ Features
 - User sign-up/login with hashed passwords
 - Per-user private folders
