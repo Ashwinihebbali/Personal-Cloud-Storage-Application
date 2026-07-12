@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 
-A lightweight, self-hosted file storage app with Flask. Secure multi-user uploads, downloads, and management—your private Dropbox in <150 lines!
+A lightweight, self-hosted file storage app with Flask. Secure multi-user uploads, downloads, and management—your private Dropbox in <150 lines! 
 
 ## ✨ Features
 - User sign-up/login with hashed passwords
